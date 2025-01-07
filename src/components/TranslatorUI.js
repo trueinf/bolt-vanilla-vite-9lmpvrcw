@@ -19,7 +19,7 @@ export function createTranslatorUI() {
             </div>
 
             <button id="translateBtn" class="btn w-full">
-              Get Captions...
+              Get Captions.....
             </button>
 
             <div id="result" class="mt-6 hidden">
